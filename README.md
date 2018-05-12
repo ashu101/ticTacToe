@@ -14,12 +14,12 @@ The main program is the org.ab.ticTacToe.Game Class. By running execute() on it,
 
 The project is a maven project, and can be built in eclipse. 
 
-To Test : **maven test**
+To Test  : **maven test**
  
-To Build run: **maven install**
+To Build : **maven install**
 
-To run : **cd ${jar_location}**
-         **java -jar ticTacToe-1.0.jar**
+To run   : **cd ${jar_location}**
+           **java -jar ticTacToe-1.0.jar**
 
 
 
