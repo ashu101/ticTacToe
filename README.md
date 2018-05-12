@@ -21,5 +21,10 @@ To Build : **maven install**
 To run   : **cd ${jar_location}**<br />
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **java -jar ticTacToe-1.0.jar**
 
+**Compatability:**
+The project is compatible with java 7.
 
+**Dependencies and tools used:**
+*1) JUnit - For tests*
+*2) Maven - For build*
 
