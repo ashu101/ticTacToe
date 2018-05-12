@@ -24,7 +24,7 @@ To run   : **cd ${jar_location}**<br />
 **Compatability:**
 The project is compatible with java 7.
 
-**Dependencies and tools used:**
-*1) JUnit - For tests*
+**Dependencies and tools used:**<br />
+*1) JUnit - For tests*<br />
 *2) Maven - For build*
 
