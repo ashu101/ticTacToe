@@ -18,7 +18,7 @@ To Test  : **maven test**
  
 To Build : **maven install**
 
-To run   : **cd ${jar_location}**
+To run   : **cd ${jar_location}**<br />
            **java -jar ticTacToe-1.0.jar**
 
 
